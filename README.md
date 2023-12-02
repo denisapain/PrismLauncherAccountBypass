@@ -1,5 +1,9 @@
 # PrismLauncher Account Bypass
 A simple bypass to use [PrismLauncher](https://prismlauncher.org) without a paid Minecraft account!
+
+#### USING THIS WILL REMOVE ANY EXISTING ACCOUNTS ON PRIMSLAUNCHER
+
+
 ### Portable Version (AnyOS)
 Download [this file](https://raw.githubusercontent.com/denisapain/PrismLauncherAccountBypass/main/accounts.json) and put it into your prismlauncher directory!
 
