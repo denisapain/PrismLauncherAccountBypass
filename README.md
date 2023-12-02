@@ -1,6 +1,7 @@
-# PrismLauncherAccountBypass
-Short command to make a "default" offline account so you don't have to buy minecraft on [prismlauncher](https://prismlauncher.org) :D
-
+# PrismLauncher Account Bypass
+A simple bypass to use [PrismLauncher](https://prismlauncher.org) without a paid Minecraft account!
+### Portable Version (AnyOS)
+Download [this file](https://raw.githubusercontent.com/denisapain/PrismLauncherAccountBypass/main/accounts.json) and put it into your prismlauncher directory!
 
 
 ### Windows:
